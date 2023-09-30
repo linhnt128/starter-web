@@ -1,1 +1,0 @@
-Testing tracked files using git ls-files
